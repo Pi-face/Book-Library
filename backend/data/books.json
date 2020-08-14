@@ -98,5 +98,14 @@
     "bookLength": "14 hrs and 31 mins",
     "releaseDate": "30-05-17",
     "language": "English"
+  },
+  {
+    "id": "4c928a4f-3906-4d17-af6f-b6d9bce4828a",
+    "name": "The Art of War",
+    "author": "Sun-Tzu",
+    "img": "https://www.basicbooks.com/wp-content/uploads/2017/09/9780465013272.jpg?fit=411%2C630",
+    "bookLength": "1 hr",
+    "releaseDate": "5th century BC",
+    "language": "english"
   }
 ]
